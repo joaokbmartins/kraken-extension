@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Basic Extension",
+  "description": "HOIST THE COLOURS HIGH (Google's Hello Extensions')",
+  "version": "1.0",
+  "action": {
+    "default_popup": "/popup/index.html",
+    "default_icon": "/images/extension_icon.png"
+  }
+}
